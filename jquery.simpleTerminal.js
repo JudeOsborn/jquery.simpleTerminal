@@ -21,7 +21,7 @@
  *
  * Parameters:
  *  prompt: An optional custom command prompt ('$' by default).
- *  iotro: Some optional intro text.
+ *  intro: Some optional intro text.
  *  command: The logic for each command. The terminal object includes:
  *       echo: Output a simple text message.
  *       success: Output a success messsage.
